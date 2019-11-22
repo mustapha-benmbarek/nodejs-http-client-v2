@@ -2,7 +2,7 @@
 
 
 ### What is in there
-This GitHub repository is just a simple program calling an external rest api with fetch module.
+This GitHub repository is just a simple program calling an external rest api using fetch module.
 
 
 ### What is Node.js
