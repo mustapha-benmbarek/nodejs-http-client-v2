@@ -1,4 +1,4 @@
-# Node.js : HTTP client <img valign="bottom" align="right" height="40px" widht="40px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" />
+# Node.js : HTTP Fetch <img valign="bottom" align="right" height="40px" widht="40px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" />
 
 
 ### What is in there
